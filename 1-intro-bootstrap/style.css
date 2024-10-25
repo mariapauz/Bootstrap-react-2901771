@@ -1,0 +1,7 @@
+.circulo{
+    width: 100px;
+    height: 100px;
+}
+.bg-maint{background-color: hsl(180, 95%, 78%);}
+.bg-dark-maint{background-color: hsl(180, 82%, 36%);}
+.bg-tomato{background-color: tomato;}
