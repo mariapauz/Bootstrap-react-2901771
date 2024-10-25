@@ -5,3 +5,11 @@
 .bg-maint{background-color: hsl(180, 95%, 78%);}
 .bg-dark-maint{background-color: hsl(180, 82%, 36%);}
 .bg-tomato{background-color: tomato;}
+.bg-blue{background-color: rgb(17, 92, 255);}
+.bg-pink{background-color: rgb(206, 10, 115);}
+.bg-orange{background-color: rgb(214, 84, 3);}
+.bg-yellow{background-color: rgb(214, 158, 3);}
+
+.fs-0{
+    font-size: 5em;
+}
